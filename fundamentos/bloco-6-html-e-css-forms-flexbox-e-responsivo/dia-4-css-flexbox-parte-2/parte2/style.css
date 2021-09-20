@@ -42,7 +42,8 @@
     align-self: center;
   }
 
-  .main-container {
+
+.main-container {
     display: flex;
     flex-wrap: wrap;
   }
